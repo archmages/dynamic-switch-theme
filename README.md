@@ -68,6 +68,7 @@ protected void refreshTheme() {
   Developed By
 ---
  * Email: <mailto:yuleiming198701@gmail.com>
+ * Blog: <http://archmages.github.io>
  * G+: <https://plus.google.com/113098790396354410175/posts>
  * 微博：[archmages](http://weibo.com/archmages)
  * QQ：512505302
