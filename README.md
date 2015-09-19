@@ -62,13 +62,13 @@ protected void refreshTheme() {
   
   ```
   
-  The library's core util is: [ThemeUtil](https://raw.githubusercontent.com/archmages/dynamic-switch-theme/master/app/src/main/java/archmages/github/dst/ThemeUtil.java)
+  The library's core is: [ThemeUtil](https://raw.githubusercontent.com/archmages/dynamic-switch-theme/master/app/src/main/java/archmages/github/dst/ThemeUtil.java)
   
   
   Developed By
 ---
- * archmages - <yuleiming198701@gmail.com>
- * G+ (https://plus.google.com/113098790396354410175/posts)
+ * Email: <mailto:yuleiming198701@gmail.com>
+ * G+: <https://plus.google.com/113098790396354410175/posts>
  * 微博：[archmages](http://weibo.com/archmages)
  * QQ：512505302
 
