@@ -1,0 +1,56 @@
+# build application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# generated files
+*bin/
+*gen/
+
+# maven output folder
+*target/
+
+# local configuration file(sdk path, etc)
+*local.properties
+
+# Eclipse project files
+*.classpath
+*.project
+*.svn/
+*.settings
+*.metadata/
+*build/
+
+# IntelliJ files
+*.idea/
+*.iml
+#*build.gradle
+*.settings/
+*.txt
+*.classpath
+*.project
+
+# OSX files
+*.DS_Store
+
+# windows files
+*.Thumbs.db
+
+# backup files
+*.bak
+
+# gradle directory
+*build/
+
+# other ignore
+*lint.xml
+*.apt_generated/
+*.factorypath
+
+*.fuse_hidden*
+.gradle
+
+gen-external-apklibs/
+atlassian-ide-plugin.xml

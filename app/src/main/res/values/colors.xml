@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color_l">@android:color/black</color>
+    <color name="text_color_n">@android:color/white</color>
+    <color name="text_color_d">#5b4636</color>
+
+    <color name="bg_color_l">@android:color/white</color>
+    <color name="bg_color_n">@android:color/black</color>
+    <color name="bg_color_d">#BEBEBE</color>
+</resources>
